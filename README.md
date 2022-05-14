@@ -7,3 +7,8 @@
 - 💬 Ask me about `React`, `Redux`, `JavaScript` 
 - 📫 How to reach me: abek01sulaymonov@gmail.com
 
+#### A piece of my code in JS
+
+``` javascript
+  console.log("Hello world")
+```
