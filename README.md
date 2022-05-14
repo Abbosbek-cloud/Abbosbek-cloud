@@ -10,5 +10,24 @@
 #### A piece of my code in JS
 
 ``` javascript
-  console.log("Hello world")
+function countDown(number) {
+    console.log(number);
+
+    const newNumber = number - 1;
+
+    if (newNumber > 0) {
+        countDown(newNumber);
+    }
+}
+
+countDown(4);
+```
+
+#### Result
+
+```
+4
+3
+2
+1
 ```
