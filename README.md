@@ -31,3 +31,4 @@ countDown(4);
 2
 1
 ```
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
