@@ -35,6 +35,14 @@ countDown(4);
 1
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abbosbek-cloud&show_icons=true&locale=en&layout=compact" alt="Abbosbek-cloud" /></p>
+<div style='display: flex; align-items: center; justify-content: space-between;'>
+  <p>
+    <img 
+      align="left" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Abbosbek-cloud&show_icons=true&locale=en&layout=compact" 
+      alt="Abbosbek-cloud" />
+  </p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
+
