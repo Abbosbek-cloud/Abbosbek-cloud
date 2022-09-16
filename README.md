@@ -1,5 +1,8 @@
 ### Welcome to Abek's repositories 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abbosbek-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="yusupovjaloliddin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abbosbek-cloud" alt="Abbosbek-cloud" /></a> </p>
 
 
 - 🌱 I’m currently learning `NodeJS`, `NextJS`, `MongoDB`
