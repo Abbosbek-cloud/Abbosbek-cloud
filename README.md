@@ -43,7 +43,14 @@ countDown(4);
       alt="Abbosbek-cloud" />
   </p>
   <p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
+    <p>
+      <img 
+        align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Abbosbek-cloud&" 
+        alt="abbosbek" 
+      />
+    </p>
+</div>
   </p>
 </div>
 
