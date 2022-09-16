@@ -51,7 +51,8 @@ countDown(4);
       />
     </p>
 </div>
-  </p>
-</div>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbosbek-cloud&show_icons=true&locale=en" alt="yusupovjaloliddin" /></p>
 
 
