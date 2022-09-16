@@ -42,7 +42,9 @@ countDown(4);
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Abbosbek-cloud&show_icons=true&locale=en&layout=compact" 
       alt="Abbosbek-cloud" />
   </p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
+  <p>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Abbosbek-cloud&theme=merko&hide_border=true&border_radius=7.2&date_format=M%20j%5B%2C%20Y%5D&stroke=DDA818)](https://git.io/streak-stats)
+  </p>
 </div>
 
 
