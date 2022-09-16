@@ -38,7 +38,8 @@ countDown(4);
 <div style='display: flex; align-items: center; justify-content: space-between;'>
   <p>
     <img 
-      align="left" 
+      align="left"
+      style='margin-bottom: 15px'
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Abbosbek-cloud&show_icons=true&locale=en&layout=compact" 
       alt="Abbosbek-cloud" />
   </p>
