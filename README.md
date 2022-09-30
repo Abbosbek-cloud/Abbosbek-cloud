@@ -35,7 +35,6 @@ countDown(4);
 1
 ```
 
-<div style='display: flex; align-items: center; justify-content: space-between;'>
   <p>
     <img 
       align="left"
@@ -51,7 +50,6 @@ countDown(4);
         alt="abbosbek" 
       />
     </p>
-</div>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbosbek-cloud&show_icons=true&locale=en" alt="yusupovjaloliddin" /></p>
