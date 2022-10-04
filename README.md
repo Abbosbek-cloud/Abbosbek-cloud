@@ -34,16 +34,3 @@ countDown(4);
 2
 1
 ```
-
-  <p>
-    <img 
-      align="left"
-      style='margin-bottom: 15px'
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Abbosbek-cloud&show_icons=true&locale=en&layout=compact" 
-      alt="Abbosbek-cloud" />
-  </p>
-  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abbosbek-cloud&show_icons=true&locale=en" alt="yusupovjaloliddin" /></p>
-
-
