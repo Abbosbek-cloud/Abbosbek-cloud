@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abbosbek-cloud" alt="Abbosbek-cloud" /></a> </p>
 
 
-- 🌱 I’m currently learning `NodeJS`, `NextJS`, `MongoDB`
+- 🌱 I’m currently learning `TypeScript`, `NestJS`, `VueJS`, `MongoDB`
 - 👯 I’m looking for a good team and I want to help them with my knowledge
 - 💬 Ask me about `React`, `Redux`, `JavaScript` 
 - 📫 How to reach me: abek01sulaymonov@gmail.com
