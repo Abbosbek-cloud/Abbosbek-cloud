@@ -9,8 +9,8 @@
 - 👯 I’m looking for a good team and I want to help them with my knowledge
 - 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB` 
 - 📫 How to reach me: 
-- * Email abek01sulaymonov@gmail.com
-- * Phone +998(93) 588-03-52
+  * Email abek01sulaymonov@gmail.com
+  * Phone +998(93) 588-03-52
 
 #### A piece of my code in JS
 
