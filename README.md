@@ -9,8 +9,6 @@
   * Email abek01sulaymonov@gmail.com
   * Phone +998(93) 588-03-52
 
-<a href="http://www.github.com/abbosbek-cloud"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abbosbek-cloud&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -22,12 +20,17 @@
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbosbek-cloud&theme=tokyonight&hide_border=true" alt="abbosbek-cloud">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=abbosbek-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
+ 
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbosbek-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abbosbek-cloud&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/abbosbek-cloud)
+
+## The projects I am currently working and contributing on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=challanges&theme=radical)](https://github.com/abbosbek-cloud/challanges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=javascript-questions&theme=radical)](https://github.com/abbosbek-cloud/javascript-questions)
 
 
 ![](https://leetcard.jacoblin.cool/Abbosbek-cloud?theme=nord&font=Fira%20Code&ext=heatmap)
