@@ -27,10 +27,11 @@
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abbosbek-cloud&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/abbosbek-cloud)
 
+
+![](https://leetcard.jacoblin.cool/Abbosbek-cloud?theme=nord&font=Fira%20Code&ext=heatmap)
+
+
 ## The projects I am currently working and contributing on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=challanges&theme=radical)](https://github.com/abbosbek-cloud/challanges)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=javascript-questions&theme=radical)](https://github.com/abbosbek-cloud/javascript-questions)
-
-
-![](https://leetcard.jacoblin.cool/Abbosbek-cloud?theme=nord&font=Fira%20Code&ext=heatmap)
