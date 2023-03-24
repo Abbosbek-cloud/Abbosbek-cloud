@@ -7,7 +7,35 @@
 - 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB` 
 - 📫 How to reach me: 
   * Email abek01sulaymonov@gmail.com
-  * Phone +998(93) 588-03-52
+  * Phone +998(93) 488-03-52
+
+
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://abeksulaymonov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abek01sulaymonov/) [![Gmail](https://img.shields.io/badge/abbosbek-cloudb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:abek01sulaymonov@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Abbosbek-cloud/)
+
+# 💻 Tech Stack:
+
+![](https://img.shields.io/badge/Bootstrap-information?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/CSS3-information?color=%231572B6&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-information?color=%23E34F26&style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white&style=flat)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+</br>
+
+![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)
+![GIt](https://img.shields.io/badge/Git-%23E34F26.svg?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+
 
 # 📊 GitHub Stats:
 
