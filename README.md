@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://abeksulaymonov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abek01sulaymonov/) [![Gmail](https://img.shields.io/badge/abbosbek-cloudb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:abek01sulaymonov@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Abbosbek-cloud/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://abeksulaymonov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abek01sulaymonov/) [![Gmail](https://img.shields.io/badge/GMAIL-abek01sulaymonov@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:abek01sulaymonov@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Abbosbek-cloud/)
 
 # 💻 Tech Stack:
 
