@@ -1,6 +1,6 @@
 ### Welcome to Abek's repositories 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abbosbek-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="yusupovjaloliddin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abbosbek-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="abekdev" /> </p>
 
 - 🌱 I’m currently learning `NestJS`, `VueJS`, `Jest`, `React Testing Library`
 - 👯 I’m looking for a good team and I want to help them with my knowledge
