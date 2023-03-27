@@ -7,7 +7,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mukhriddin-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/abbosbek-cloud/count.svg" />
 </p>
 
 - 🌱 I’m currently learning `NestJS`, `VueJS`, `Jest`, `React Testing Library`
