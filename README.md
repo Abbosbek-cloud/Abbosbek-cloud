@@ -10,9 +10,9 @@
   <img src="https://profile-counter.glitch.me/abbosbek-cloud/count.svg" />
 </p>
 
-- 🌱 I’m currently learning `NestJS`, `VueJS`, `Jest`, `React Testing Library`
+- 🌱 I’m currently learning `C#`, `.NET`, `VueJS`, `Jest`, `React Testing Library`
 - 👯 I’m looking for a good team and I want to help them with my knowledge
-- 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB` 
+- 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB`, `NestJS`  
 - 📫 How to reach me: 
   * Email abek01sulaymonov@gmail.com
   * Phone +998(93) 488-03-52
