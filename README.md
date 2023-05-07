@@ -15,7 +15,7 @@
 - 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB`, `NestJS`  
 - 📫 How to reach me: 
   * Email abek01sulaymonov@gmail.com
-  * Phone +998(93) 488-03-52
+  * Phone +998(93) 588-03-52
 
 
 ## 🌐 Socials:
