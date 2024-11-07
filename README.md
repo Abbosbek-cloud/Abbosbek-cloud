@@ -35,25 +35,3 @@
 ![](https://img.shields.io/badge/Gitlab%20CI/CD-information?color=%23181717&style=flat&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-
-
-# 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abbosbek-cloud&theme=radical">
-<br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbosbek-cloud&theme=tokyonight">
-<br/>
- 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbosbek-cloud&theme=tokyonight&hide_border=true" alt="abbosbek-cloud">
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=abbosbek-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
- 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbosbek-cloud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-<br/>
-
-## The projects I am currently working and contributing on:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=challanges&theme=radical)](https://github.com/abbosbek-cloud/challanges)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abbosbek-cloud&repo=javascript-questions&theme=radical)](https://github.com/abbosbek-cloud/javascript-questions)
