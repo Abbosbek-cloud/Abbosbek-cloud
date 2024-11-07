@@ -1,4 +1,4 @@
-### Welcome to Abek's repositories 
+### Welcome to Abbosbek's repositories 
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+FullStack+Developer;I'm+a+React+JS+Developer;I'm+a+Vue+JS+Developer;I'm+a+Node+JS+Developer)
 
