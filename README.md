@@ -2,15 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+FullStack+Developer;I'm+a+React+JS+Developer;I'm+a+Vue+JS+Developer;I'm+a+Node+JS+Developer)
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abbosbek-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="abekdev" /> </p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/abbosbek-cloud/count.svg" />
-</p>
-
-- 🌱 I’m currently learning `C#`, `.NET`, `ASP.NET`
+- 🌱 I’m currently learning `Go`, `Gin`, `fiber`
 - 👯 I’m looking for a good team and I want to help them with my knowledge
 - 💬 Ask me about `React`, `Redux`, `TypeScript`, `JavaScript`, `MongoDB`, `NestJS`  
 - 📫 How to reach me: 
